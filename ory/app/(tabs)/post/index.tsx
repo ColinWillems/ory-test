@@ -4,7 +4,7 @@ import React from 'react'
 export default function post() {
   return (
     <View>
-      <Text>post</Text>
+      <Text className='text-xl font-bold text-blue-500'>post</Text>
     </View>
   )
 }
